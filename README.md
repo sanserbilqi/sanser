@@ -1,2 +1,0 @@
-# sanser
-Mavi tik
